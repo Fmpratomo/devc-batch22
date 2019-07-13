@@ -1,0 +1,21 @@
+img{
+    width: 150px;
+}
+.ini_paragraph {
+    color: green;
+    /* font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; */
+    font-family: 'Indie Flower', comic sans-serif;
+    font-weight: bold;
+}
+
+.form{
+    width: 100%;
+    height: 40px;
+    padding: 10px;
+
+}
+.backcolor
+{
+    background-color:  grey;
+    border: 1px solid white;
+}
